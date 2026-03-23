@@ -22,11 +22,11 @@ The project follows a structured workflow:
 
 ## 📂 Project Structure
 crash-severity-ml/
-│
+
 ├── analysis.ipynb # Data exploration, visualization, feature engineering
 ├── modeling.ipynb # Model training, evaluation, predictions
 ├── README.md # Project documentation
-└── data/ # Dataset (if included)
+└── data)
 
 
 ---
