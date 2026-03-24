@@ -108,7 +108,15 @@ Additional metrics:
 - Precision-Recall Curve
 - Feature Importance plots
 - Crash distribution visualizations
+- <img width="567" height="455" alt="image" src="https://github.com/user-attachments/assets/e2ac2d87-7cdb-4b02-8461-885522ad4ec2" />
+<img width="684" height="435" alt="image" src="https://github.com/user-attachments/assets/1e4c8d8d-942f-4b62-af9d-dbaa4170e263" />
+<img width="576" height="455" alt="image" src="https://github.com/user-attachments/assets/31a86adc-8e63-4670-a3c4-1ac457fe25f9" />
 
+
+
+
+
+  
 ---
 
 ## ⚠️ Limitations
